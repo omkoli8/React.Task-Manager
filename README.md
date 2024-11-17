@@ -1,6 +1,6 @@
 # Application And Functionality
 ## Task Manager
-The react application name as 'Task-manager' is bootstrapped with various meaningful icons, styles, themes etc.
+The react application name as 'Task-manager' is bootstrapped with various meaningful icons, styles, themes etc.  
 We can add Any particular Task with a title with selecting a 'dedline' for that task.
 After the task is added we can select a Priority for that task. The 'priority' is listed as 'High, Medium, Low'.
 For making the 'UI attractive' different colors use for the Priorities.
