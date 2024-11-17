@@ -18,5 +18,5 @@ installl bootstrap icons.
 run the project by firing command npm start.
 check the package.json for other package if i forgot to mentioned.
 
-##Images/screenshots
+##Images
 the Screenshots are uploaded in the Images folder, please check.
